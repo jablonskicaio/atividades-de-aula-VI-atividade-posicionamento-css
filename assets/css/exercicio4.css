@@ -1,0 +1,64 @@
+div {
+    background-color: black;
+    width: 5vw;
+    height: 10vh;
+}
+
+.div1{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.div2{
+    position: fixed;
+    left: 6vw;
+}
+.div3{
+    position: relative;
+    left: 6vw;
+}
+.div4{
+    position: fixed;
+    top: 11vh;
+    left: 0vw;
+}
+.div5{
+    position: relative;
+    top: 0vh;
+    left: 6vw;
+}
+.div6{
+    position: fixed;
+    top: 22vh;
+    left: 0vw;
+}
+.div7{
+    position: fixed;
+    bottom: 0vh;
+    right: 0vw;
+}
+.div8{
+    position: relative;
+    bottom: 0vh;
+    right: 6vw;
+}
+.div9{
+    position: relative;
+    bottom: 0vh;
+    right: 6vw;
+}
+.div10{
+    position: fixed;
+    bottom: 11vh;
+    right: 0vw;
+}
+.div11{
+    position: relative;
+    bottom: 0vh;
+    right: 6vw;
+}
+.div12{
+    position: fixed;
+    bottom: 22vh;
+    right: 0vw;
+}

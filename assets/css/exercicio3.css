@@ -1,0 +1,26 @@
+.div1{
+    position: sticky;
+    background-color: black;
+    color: grey;
+    width: 50vw;
+    height: 15vh;
+    left: 25vw;
+    top: 40vh;
+    border-radius: 10px 10px 10px 10px;
+    text-align: end;
+    padding: 10px;
+    }
+
+.div2{
+    position: relative;
+    overflow: auto;
+    background-color: black;
+    color: grey;
+    width: 50vw;
+    height: 15vh;
+    left: 25vw;
+    top: 35vh;
+    text-align: end;
+    padding: 10px;
+    border: 2px solid red;
+}

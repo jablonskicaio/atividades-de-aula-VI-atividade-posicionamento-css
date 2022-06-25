@@ -1,0 +1,31 @@
+.div1{
+    position: fixed;
+    background-color: black;
+    width: 15vw;
+    height: 30vh;
+}
+.div2{
+    position: fixed;
+    background-color: black;
+    width: 15vw;
+    height: 30vh;
+    right: 0vw;
+}
+
+.div3{
+    position: fixed;
+    background-color: black;
+    width: 15vw;
+    height: 30vh;
+    left: 0vw;
+    bottom: 0vh;
+}
+
+.div4{
+    position: fixed;
+    background-color: black;
+    width: 15vw;
+    height: 30vh;
+    right: 0vw;
+    bottom: 0vh;
+}
